@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(38, 38, 38);
+    color:rgb(255, 255, 255);
+}
+input{
+    color:rgb(255, 255, 255);
+    background-color: rgb(38, 38, 38);
+border: solid;
+border-radius: 20px;
+}
+.butt{
+    padding: 25%;
+    text-align: center;
+}
+button{
+   
+    margin:auto;
+    display: block;
+    margin-top: 50px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(38, 38, 38);
+border: solid;
+border-radius: 30px;
+}
+select{
+    color:rgb(255, 255, 255);
+    background-color: rgb(38, 38, 38);
+border: solid;
+border-radius: 20px;
+}
